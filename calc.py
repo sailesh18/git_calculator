@@ -9,3 +9,5 @@ def mul(a,b,c):
     return a*b
 print("Welcome to calculator")
 print("manual addition")
+
+print("hey this is a new line")
